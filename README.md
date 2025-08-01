@@ -1,6 +1,6 @@
 # 🌟 Weather App
 ![CV Banner](./img/display.png)  
-Welcome to **Weather App**, Đây là **personal project** đơn giản cho phép người dùng có thể biết thời tiết thành phố mình đang sinh sống bằng cách là nhập tên thành phô của của mình vào.
+Welcome to **Weather App**, This is a simple **personal project** that allows users to know the weather of the city they live in by entering the name of their city.
 This is an application that shows my JavaScript skills, and also allows me to get familiar with API 🚀
 ## 🛠 Technology
 - **HTML**, **CSS**, **JavaScript**,**API**
